@@ -1,4 +1,4 @@
-*{
+*{ 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -36,7 +36,7 @@ html{
     padding: .5rem 3rem;
     border-radius: 15px;
 }
-#menu-bars{
+#menu-bars{ 
     color: white;
     font-size: 2rem;
     display: none;
@@ -44,7 +44,7 @@ html{
 }
 .navbar.active{
     top: 10%;
-}
+} 
 
 .background-text h2{
     color: white;
@@ -57,7 +57,7 @@ html{
 }
 .background-text h2 span{
     color: #ffc61a;
-}
+} 
 .taxi-image{
     width: 50%;
     margin: 0 auto;
